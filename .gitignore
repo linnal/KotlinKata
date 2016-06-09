@@ -1,0 +1,8 @@
+.gradle
+build/
+gradle-app.setting
+hs_err_pid*
+*.class
+*.idea
+*iml
+
